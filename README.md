@@ -15,3 +15,4 @@ A list of my accomplishments for every field.
 * [Data Visualization Using Tableau and Python](certificates/data_science/SPARTA/Development%20Academy%20of%20the%20Philippines%20SP502%20Certificate%20_%20Coursebank.pdf)
 * [Computing in Python](certificates/data_science/SPARTA/Development%20Academy%20of%20the%20Philippines%20SP202%20Certificate%20_%20Coursebank.pdf)
 * [SQL for Business Users](certificates/data_science/SPARTA/Development%20Academy%20of%20the%20Philippines%20SP203%20Certificate%20_%20Coursebank.pdf)
+* [Statistical Analysis and Modeling Using SQL and Python](certificates/data_science/SPARTA/Development%20Academy%20of%20the%20Philippines%20SP802%20Certificate%20_%20Coursebank.pdf)
