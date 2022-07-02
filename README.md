@@ -5,19 +5,21 @@ A list of my accomplishments for every field.
 ### Data science
 #### Smarter Philippines through Data Analytics R&D, Training and Adoption (SPARTA)
 * 2020
-  * [Getting Grounded on Analytics](certificates/online_courses/data_science/SPARTA/Development%20Academy%20of%20the%20Philippines%20SP101%20Certificate%20_%20CourseBank.pdf)
+  * [Getting Grounded on Analytics](certificates/online_courses/data_science/SPARTA/Getting%20Grounded%20on%20Analytics.pdf)
 * 2021
-  * [Essential Excel Skills for Data Preparation and Analysis](certificates/online_courses/data_science/SPARTA/Development%20Academy%20of%20the%20Philippines%20SP201%20Certificate%20_%20CourseBank.pdf)
-  * [Data Management Fundamentals](certificates/online_courses/data_science/SPARTA/Development%20Academy%20of%20the%20Philippines%20SP301%20Certificate%20_%20CourseBank.pdf)
-  * [Dashboard and Drilldown Analytics](certificates/online_courses/data_science/SPARTA/Development%20Academy%20of%20the%20Philippines%20SP401%20Certificate%20_%20CourseBank.pdf)
-  * [Data Visualization Fundamentals](certificates/online_courses/data_science/SPARTA/Development%20Academy%20of%20the%20Philippines%20SP501%20Certificate%20_%20CourseBank.pdf)
-  * [Storytelling Using Data](certificates/online_courses/data_science/SPARTA/Development%20Academy%20of%20the%20Philippines%20SP503%20Certificate%20_%20Coursebank.pdf)
+  * [Essential Excel Skills for Data Preparation and Analysis](certificates/online_courses/data_science/SPARTA/Essential%20Excel%20Skills%20for%20Data%20Preparation%20and%20Analysis.pdf)
+  * [Data Management Fundamentals](certificates/online_courses/data_science/SPARTA/Data%20Management%20Fundamentals.pdf)
+  * [Dashboard and Drilldown Analytics](certificates/online_courses/data_science/SPARTA/Dashboards%20and%20Drill-Down%20Analytics.pdf)
+  * [Data Visualization Fundamentals](certificates/online_courses/data_science/SPARTA/Data%20Visualization%20Fundamentals.pdf)
+  * [Storytelling Using Data](certificates/online_courses/data_science/SPARTA/Storytelling%20Using%20Data.pdf)
 * 2022
-  * [Data Visualization Using Tableau and Python](certificates/online_courses/data_science/SPARTA/Development%20Academy%20of%20the%20Philippines%20SP502%20Certificate%20_%20Coursebank.pdf)
-  * [Computing in Python](certificates/online_courses/data_science/SPARTA/Development%20Academy%20of%20the%20Philippines%20SP202%20Certificate%20_%20Coursebank.pdf)
-  * [SQL for Business Users](certificates/online_courses/data_science/SPARTA/Development%20Academy%20of%20the%20Philippines%20SP203%20Certificate%20_%20Coursebank.pdf)
-  * [Statistical Analysis and Modeling Using SQL and Python](certificates/online_courses/data_science/SPARTA/Development%20Academy%20of%20the%20Philippines%20SP802%20Certificate%20_%20Coursebank.pdf)
-
+  * [Data Visualization Using Tableau and Python](certificates/online_courses/data_science/SPARTA/Data%20Visualization%20Using%20Tableau%20and%20Python.pdf)
+  * [Computing in Python](certificates/online_courses/data_science/SPARTA/Computing%20in%20Python.pdf)
+  * [SQL for Business Users](certificates/online_courses/data_science/SPARTA/SQL%20for%20Business%20Users.pdf)
+  * [Statistical Analysis and Modeling Using SQL and Python](certificates/online_courses/data_science/SPARTA/Statistical%20Analysis%20and%20Modeling%20Using%20SQL%20and%20Python.pdf)
+  * [Microspecialization: Data Visualization](certificates/online_courses/data_science/SPARTA/Data%20VisualizationMicrospecialization%20Pathway.pdf)
+  * [Microspecialization: Computing](certificates/online_courses/data_science/SPARTA/ComputingMicrospecialization%20Pathway.pdf)
+  
 ## Webinars
 ### Data Science
 #### Smarter Philippines through Data Analytics R&D, Training and Adoption (SPARTA)
