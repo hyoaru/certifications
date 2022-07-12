@@ -2,6 +2,12 @@
 A list of my accomplishments for every field.
 
 ## Online courses
+### General programming
+#### Modern Academics Convergence Hub (MACH)
+* 2022
+  * [Programming for Beginners Using Python](cerfificates/online_courses/../../certificates/online_courses/general_programming/MACH/MACH%20Programming%20For%20Beginners%20Using%20Python.pdf)
+  * [Programming for Intermediate Users Using Python](certificates/online_courses/general_programming/MACH/MACH%20Programming%20for%20Intermediate%20Users%20Using%20Python.pdf)
+
 ### Data science
 #### Smarter Philippines through Data Analytics R&D, Training and Adoption (SPARTA)
 * 2020
@@ -19,6 +25,7 @@ A list of my accomplishments for every field.
   * [Statistical Analysis and Modeling Using SQL and Python](certificates/online_courses/data_science/SPARTA/Statistical%20Analysis%20and%20Modeling%20Using%20SQL%20and%20Python.pdf)
   * [Microspecialization: Data Visualization](certificates/online_courses/data_science/SPARTA/Data%20VisualizationMicrospecialization%20Pathway.pdf)
   * [Microspecialization: Computing](certificates/online_courses/data_science/SPARTA/ComputingMicrospecialization%20Pathway.pdf)
+
   
 ## Webinars
 ### Data Science
