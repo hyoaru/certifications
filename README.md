@@ -30,6 +30,7 @@ A list of my accomplishments for every field.
 #### Modern Academics Convergence Hub (MACH)
 * 2022
   * [Basic Statistics with Python](certificates/online_courses/data_science/MACH/MACH%20Basic%20Statistics%20with%20Python.pdf)
+  * [Analyze Data with Python](certificates/online_courses/data_science/MACH/MACH%20Analyze%20Data%20with%20Python.pdf)
   
 ## Webinars
 ### Data Science
