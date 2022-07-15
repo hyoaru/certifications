@@ -27,6 +27,9 @@ A list of my accomplishments for every field.
   * [Microspecialization: Data Visualization](certificates/online_courses/data_science/SPARTA/Data%20VisualizationMicrospecialization%20Pathway.pdf)
   * [Microspecialization: Computing](certificates/online_courses/data_science/SPARTA/ComputingMicrospecialization%20Pathway.pdf)
 
+#### Modern Academics Convergence Hub (MACH)
+* 2022
+  * [Basic Statistics with Python](certificates/online_courses/data_science/MACH/MACH%20Basic%20Statistics%20with%20Python.pdf)
   
 ## Webinars
 ### Data Science
