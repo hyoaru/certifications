@@ -32,7 +32,12 @@ A list of my accomplishments for every field.
   * [Basic Statistics with Python](certificates/online_courses/data_science/MACH/MACH%20Basic%20Statistics%20with%20Python.pdf)
   * [Analyze Data with Python](certificates/online_courses/data_science/MACH/MACH%20Analyze%20Data%20with%20Python.pdf)
   * [Visualize Data with Python](certificates/online_courses/data_science/MACH/MACH%20Visualize%20Data%20with%20Python.pdf)
-  
+
+### Web development
+#### Modern Academics Convergence Hub (MACH)
+* 2022
+  * [Build Python Web Apps with Flask](certificates/online_courses/web_development/MACH/MACH%20Build%20Python%20Web%20Apps%20with%20Flask.pdf)
+
 ## Webinars
 ### Data Science
 #### Smarter Philippines through Data Analytics R&D, Training and Adoption (SPARTA)
