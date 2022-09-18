@@ -27,6 +27,7 @@ A list of my accomplishments for every field.
   * [Data Science and Machine Learning](certificates/online_courses/data_science/SPARTA/Data%20Science%20and%20Machine%20Learning%20Using%20Python.pdf)
   * [Microspecialization: Data Visualization](certificates/online_courses/data_science/SPARTA/Data%20VisualizationMicrospecialization%20Pathway.pdf)
   * [Microspecialization: Computing](certificates/online_courses/data_science/SPARTA/ComputingMicrospecialization%20Pathway.pdf)
+  * [Microspecialization: Methods and Algorithms](certificates/online_courses/data_science/SPARTA/Methods%20and%20AlgorithmsMicrospecialization%20Pathway.pdf)
 
 #### Modern Academics Convergence Hub (MACH)
 * 2022
