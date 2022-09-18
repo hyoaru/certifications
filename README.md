@@ -24,6 +24,7 @@ A list of my accomplishments for every field.
   * [SQL for Business Users](certificates/online_courses/data_science/SPARTA/SQL%20for%20Business%20Users.pdf)
   * [Statistical Analysis and Modeling Using SQL and Python](certificates/online_courses/data_science/SPARTA/Statistical%20Analysis%20and%20Modeling%20Using%20SQL%20and%20Python.pdf)
   * [Experimental Design and Analysis](certificates/online_courses/data_science/SPARTA/Experimental%20Design%20and%20Analysis.pdf)
+  * [Data Science and Machine Learning](certificates/online_courses/data_science/SPARTA/Data%20Science%20and%20Machine%20Learning%20Using%20Python.pdf)
   * [Microspecialization: Data Visualization](certificates/online_courses/data_science/SPARTA/Data%20VisualizationMicrospecialization%20Pathway.pdf)
   * [Microspecialization: Computing](certificates/online_courses/data_science/SPARTA/ComputingMicrospecialization%20Pathway.pdf)
 
