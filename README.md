@@ -35,6 +35,11 @@ A list of my accomplishments for every field.
   * [Analyze Data with Python](certificates/online_courses/data_science/MACH/MACH%20Analyze%20Data%20with%20Python.pdf)
   * [Visualize Data with Python](certificates/online_courses/data_science/MACH/MACH%20Visualize%20Data%20with%20Python.pdf)
 
+#### Google
+* 2022
+  * [Foundations: Data, Data, Everywhere](certificates/online_courses/data_science/Google/Coursera%2098WLY7GTYQXP.pdf)
+  * [Ask Questions to Make Data- Driven Decisions](certificates/online_courses/data_science/Google/Coursera%20AFYSP9AT688L.pdf)
+
 ### Web development
 #### Modern Academics Convergence Hub (MACH)
 * 2022
