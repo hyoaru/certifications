@@ -39,6 +39,7 @@ A list of my accomplishments for every field.
 * 2022
   * [Foundations: Data, Data, Everywhere](certificates/online_courses/data_science/Google/Coursera%2098WLY7GTYQXP.pdf)
   * [Ask Questions to Make Data- Driven Decisions](certificates/online_courses/data_science/Google/Coursera%20AFYSP9AT688L.pdf)
+  * [Prepare Data for Exploration](certificates/online_courses/data_science/Google/Coursera%Coursera%20NRBJSJUC23CB.pdf.pdf)
 
 ### Web development
 #### Modern Academics Convergence Hub (MACH)
