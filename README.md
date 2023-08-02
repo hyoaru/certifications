@@ -42,6 +42,9 @@ A list of my accomplishments for every field.
   * [Prepare Data for Exploration](certificates/online_courses/data_science/Google/Coursera%Coursera%20NRBJSJUC23CB.pdf)
 * 2023
   * [Process Data from Dirty to Clean](certificates/online_courses/data_science/Google/Coursera%Coursera%20X43NVBCNNG5R.pdf)
+  * [Analyze Data to Answer Questions](certificates/online_courses/data_science/Google/Coursera%20VEDAQDZHSQCW.pdf)
+  * [Share Data Through the Art of Visualization](certificates/online_courses/data_science/Google/Coursera%20VGLAE6SPCZUA.pdf)
+  * [Google Data Analytics Capstone: Complete A Case Study](certificates/online_courses/data_science/Google/Coursera%20TM3X56CDLPCF.pdf)
 
 ### Web development
 #### Modern Academics Convergence Hub (MACH)
